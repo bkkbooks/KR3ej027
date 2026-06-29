@@ -1,0 +1,1193 @@
+canonical_identifier: bkk:krp/KR3ej027/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej027/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈幼便覽
+  identifiers:
+    krp: KR3ej027
+  tags:
+    kr-categories: KR3ej
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej027.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej027_000-jc.yaml, hash: 'sha256:c815b0c1955935861076b0701d2202b089e1e93583892237e07bfead6cbe734f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej027_000-jc.markers.yaml, hash: 'sha256:11f9207601a34ecce133b79e708c17d90b8ccc9a17521e6651e139eaf788bf09'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 80
+  label: 小兒簡要辨證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d3.h1s1
+    span:
+    - body
+    - 80
+    - 600
+  label: 節錄夏禹鑄望苗竅訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d4.h1s1
+    span:
+    - body
+    - 600
+    - 831
+  label: 驗虎口法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d4d4
+    span:
+    - body
+    - 705
+    - 773
+  label: 手指脈紋形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d4d5
+    span:
+    - body
+    - 773
+    - 831
+  label: 虎口三關
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5.h1s1
+    span:
+    - body
+    - 831
+    - 2086
+  label: 初生
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d2
+    span:
+    - body
+    - 833
+    - 1107
+  label: 初生聲不出
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d3
+    span:
+    - body
+    - 1107
+    - 1203
+  label: 初生無皮
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d4
+    span:
+    - body
+    - 1203
+    - 1249
+  label: 初生腎縮
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d5
+    span:
+    - body
+    - 1249
+    - 1302
+  label: 初生無穀道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d6
+    span:
+    - body
+    - 1302
+    - 1353
+  label: 初生不吮乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d7
+    span:
+    - body
+    - 1353
+    - 1396
+  label: 初生不乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d8
+    span:
+    - body
+    - 1396
+    - 1438
+  label: 初生不尿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d9
+    span:
+    - body
+    - 1438
+    - 1473
+  label: 初生大小便不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d10
+    span:
+    - body
+    - 1473
+    - 1505
+  label: 三朝浴兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d11
+    span:
+    - body
+    - 1505
+    - 1549
+  label: 小兒目閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d12
+    span:
+    - body
+    - 1549
+    - 1825
+  label: 小兒夜啼
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d13
+    span:
+    - body
+    - 1825
+    - 1861
+  label: 吐乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d14
+    span:
+    - body
+    - 1861
+    - 1881
+  label: 舌瘡飲乳不得
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d15
+    span:
+    - body
+    - 1881
+    - 1921
+  label: 臍內潰爛出水
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d16
+    span:
+    - body
+    - 1921
+    - 1943
+  label: 月內胎驚
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d17
+    span:
+    - body
+    - 1943
+    - 2000
+  label: 小兒瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d5d18
+    span:
+    - body
+    - 2000
+    - 2086
+  label: 治小兒吐瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d6.h1s1
+    span:
+    - body
+    - 2086
+    - 2350
+  label: 調護
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7.h1s1
+    span:
+    - body
+    - 2350
+    - 3540
+  label: 臍風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d4
+    span:
+    - body
+    - 2452
+    - 2538
+  label: 臍風有內外因
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d5
+    span:
+    - body
+    - 2538
+    - 3181
+  label: 臍風症候有三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d6
+    span:
+    - body
+    - 3181
+    - 3237
+  label: 小兒臍不幹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d7
+    span:
+    - body
+    - 3237
+    - 3268
+  label: 小兒臍瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d8
+    span:
+    - body
+    - 3268
+    - 3328
+  label: 小兒臍瘡出血及膿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d9
+    span:
+    - body
+    - 3328
+    - 3378
+  label: 小兒臍口腫突
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d10
+    span:
+    - body
+    - 3378
+    - 3473
+  label: 小兒臍氣痛啼哭無時
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d7d11
+    span:
+    - body
+    - 3473
+    - 3540
+  label: 臍風燈火灸穴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d8.h1s1
+    span:
+    - body
+    - 3540
+    - 3615
+  label: 乳子未半歲服藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.h1s1
+    span:
+    - body
+    - 3615
+    - 13234
+  label: 驚風闢妄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9d4
+    span:
+    - body
+    - 3751
+    - 4825
+  label: 一曰誤搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9d5
+    span:
+    - body
+    - 4825
+    - 7069
+  label: 一曰類搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d4
+    span:
+    - body
+    - 4952
+    - 5244
+  label: 暑證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d5
+    span:
+    - body
+    - 5244
+    - 5583
+  label: 陰暑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d6
+    span:
+    - body
+    - 5583
+    - 5619
+  label: 小兒中暑吐瀉或卒然昏倒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d7
+    span:
+    - body
+    - 5619
+    - 5829
+  label: 瘧疾
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d8
+    span:
+    - body
+    - 5829
+    - 5963
+  label: 痢疾
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d9
+    span:
+    - body
+    - 5963
+    - 6083
+  label: 咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d10
+    span:
+    - body
+    - 6083
+    - 6133
+  label: 小兒咳嗽不出聲
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d11
+    span:
+    - body
+    - 6133
+    - 6164
+  label: 肺實咳嗽痰喘
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d12
+    span:
+    - body
+    - 6164
+    - 6214
+  label: 小兒痰壅喘咳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d13
+    span:
+    - body
+    - 6214
+    - 6256
+  label: 小兒百晬嗽不止
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d14
+    span:
+    - body
+    - 6256
+    - 6396
+  label: 丹毒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d15
+    span:
+    - body
+    - 6396
+    - 6513
+  label: 瘡癰
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d16
+    span:
+    - body
+    - 6513
+    - 6827
+  label: 霍亂
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d17
+    span:
+    - body
+    - 6827
+    - 6973
+  label: 乾霍亂
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d5d18
+    span:
+    - body
+    - 6973
+    - 7069
+  label: 凡發痧手足冷腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9d6
+    span:
+    - body
+    - 7069
+    - 13234
+  label: 一曰非搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d18
+    span:
+    - body
+    - 7540
+    - 7716
+  label: 急慢驚風症治辨
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d19
+    span:
+    - body
+    - 7716
+    - 8010
+  label: 急驚風
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d20
+    span:
+    - body
+    - 8010
+    - 8191
+  label: 急驚慢驚外治三方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d21
+    span:
+    - body
+    - 8191
+    - 9473
+  label: 莊在田福幼編治慢驚風神效二方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d22
+    span:
+    - body
+    - 9473
+    - 9594
+  label: 附錄慢驚單方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d23
+    span:
+    - body
+    - 9594
+    - 9881
+  label: 客忤
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d24
+    span:
+    - body
+    - 9881
+    - 10110
+  label: 中惡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d25
+    span:
+    - body
+    - 10110
+    - 10138
+  label: 小兒卒然暴死
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d26
+    span:
+    - body
+    - 10138
+    - 10424
+  label: 大驚卒恐
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d27
+    span:
+    - body
+    - 10424
+    - 10551
+  label: 小兒時疫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d28
+    span:
+    - body
+    - 10551
+    - 10947
+  label: 癇證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d29
+    span:
+    - body
+    - 10947
+    - 11500
+  label: 傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d30
+    span:
+    - body
+    - 11500
+    - 11507
+  label: 傷暑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d31
+    span:
+    - body
+    - 11507
+    - 11964
+  label: 傷濕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d32
+    span:
+    - body
+    - 11964
+    - 11997
+  label: 小兒浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d33
+    span:
+    - body
+    - 11997
+    - 12200
+  label: 小兒哮喘簡便方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d34
+    span:
+    - body
+    - 12200
+    - 12401
+  label: 諸疳症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d35
+    span:
+    - body
+    - 12401
+    - 12910
+  label: 疳症簡便方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d36
+    span:
+    - body
+    - 12910
+    - 13157
+  label: 疳蝕口鼻
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d37
+    span:
+    - body
+    - 13157
+    - 13195
+  label: 治一切疳瘡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d9.d6d38
+    span:
+    - body
+    - 13195
+    - 13234
+  label: 疳痢
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d10.h1s1
+    span:
+    - body
+    - 13234
+    - 13878
+  label: 嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d10d4
+    span:
+    - body
+    - 13360
+    - 13878
+  label: 小兒嘔吐簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d11.h1s1
+    span:
+    - body
+    - 13878
+    - 14747
+  label: 泄瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d11d28
+    span:
+    - body
+    - 14345
+    - 14747
+  label: 泄瀉簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d12.h1s1
+    span:
+    - body
+    - 14747
+    - 15197
+  label: 傷食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d13.h1s1
+    span:
+    - body
+    - 15197
+    - 15806
+  label: 小兒發熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d14.h1s1
+    span:
+    - body
+    - 15806
+    - 16740
+  label: 神授外治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d15.h1s1
+    span:
+    - body
+    - 16740
+    - 18219
+  label: 痢疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d15d36
+    span:
+    - body
+    - 17874
+    - 18219
+  label: 瘧疾簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d16.h1s1
+    span:
+    - body
+    - 18219
+    - 19475
+  label: 消渴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d16d16
+    span:
+    - body
+    - 18460
+    - 18882
+  label: 諸血症簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d16d17
+    span:
+    - body
+    - 18882
+    - 19051
+  label: 腫滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d16d18
+    span:
+    - body
+    - 19051
+    - 19475
+  label: 水腫簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d17.h1s1
+    span:
+    - body
+    - 19475
+    - 20117
+  label: 脹滿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d17d4
+    span:
+    - body
+    - 19707
+    - 19815
+  label: 腹脹簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d17d5
+    span:
+    - body
+    - 19815
+    - 20000
+  label: 黃疸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d17d6
+    span:
+    - body
+    - 20000
+    - 20117
+  label: 黃疸簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18.h1s1
+    span:
+    - body
+    - 20117
+    - 22406
+  label: 腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18d10
+    span:
+    - body
+    - 20537
+    - 21043
+  label: 腹痛簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18d11
+    span:
+    - body
+    - 21043
+    - 21422
+  label: 小兒癖積簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18d12
+    span:
+    - body
+    - 21422
+    - 21819
+  label: 下蟲簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18d13
+    span:
+    - body
+    - 21819
+    - 21929
+  label: 汗證簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d18d14
+    span:
+    - body
+    - 21929
+    - 22406
+  label: 疝氣簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d19.h1s1
+    span:
+    - body
+    - 22406
+    - 23126
+  label: 小兒龜胸龜背
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d19d16
+    span:
+    - body
+    - 22655
+    - 22891
+  label: 二便不通簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d19d17
+    span:
+    - body
+    - 22891
+    - 23126
+  label: 小便簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20.h1s1
+    span:
+    - body
+    - 23126
+    - 26579
+  label: 頭縫不合
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d16
+    span:
+    - body
+    - 23436
+    - 23926
+  label: 眼目簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d17
+    span:
+    - body
+    - 23926
+    - 24312
+  label: 耳病簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d18
+    span:
+    - body
+    - 24312
+    - 24664
+  label: 鼻病簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d19
+    span:
+    - body
+    - 24664
+    - 26059
+  label: 口舌牙疳咽喉簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d20
+    span:
+    - body
+    - 26059
+    - 26559
+  label: 丹毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d20d21
+    span:
+    - body
+    - 26559
+    - 26579
+  label: 小兒癬疥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d21.h1s1
+    span:
+    - body
+    - 26579
+    - 26755
+  label: 破傷風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d22.h1s1
+    span:
+    - body
+    - 26755
+    - 27133
+  label: 瘰癧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d23.h1s1
+    span:
+    - body
+    - 27133
+    - 27192
+  label: 小兒痄腮腫痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d24.h1s1
+    span:
+    - body
+    - 27192
+    - 27350
+  label: 蟮虫匝病頭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25.h1s1
+    span:
+    - body
+    - 27350
+    - 28881
+  label: 楊梅瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25d12
+    span:
+    - body
+    - 27600
+    - 28401
+  label: 瘡疥雜方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25d13
+    span:
+    - body
+    - 28401
+    - 28682
+  label: 湯火簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25d14
+    span:
+    - body
+    - 28682
+    - 28735
+  label: 斷乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25d15
+    span:
+    - body
+    - 28735
+    - 28776
+  label: 遍身奇癢叫啼不休
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej027_jc_000-d25d16
+    span:
+    - body
+    - 28776
+    - 28881
+  label: 男女童勞
+  type: section
+  level: 2
+hash: sha256:4c3b0618d24886346b5521d1951d3c1f85158606c1c7c59df10cc0465fe1967f
