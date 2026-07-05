@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej027_000.yaml, hash: 'sha256:62131ce8b2e7635b8f08e26cc1a53bc5a98cff7aeaf1dc0e20aafe47453776c5'}
+  - {seq: 0, filename: KR3ej027_000.yaml, hash: 'sha256:c815b0c1955935861076b0701d2202b089e1e93583892237e07bfead6cbe734f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:36f032cb748c860c13fc57d5b45d0acfd368c5e1b13993187703ba5c9e5fab88'}
+  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:0edc827d29a75d98ecfee97446493e4a889eacf231d93db6f9ff672b9104622b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1190,7 +1190,4 @@ table_of_contents:
   label: 男女童勞
   type: section
   level: 2
-hash: sha256:02cd97d151d934d91713ea29f2b3fd88a89c9881972a73adb83020860d47151e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0ae9c267626eb7cfaacc9357a27770d25645b54e618e0b1ca63cf217aa5c9d04
