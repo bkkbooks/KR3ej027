@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej027/v1
 canonical_location: https://kanripo.org/bkk/KR3ej027/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈幼便覽
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej027_000.yaml, hash: 'sha256:c815b0c1955935861076b0701d2202b089e1e93583892237e07bfead6cbe734f'}
+  - {seq: 0, filename: KR3ej027_000.yaml, hash: 'sha256:d6e33a700d417ea4a88373cd2ccec34b94fe4d89e679da45e9a7c11aae967ebd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:0edc827d29a75d98ecfee97446493e4a889eacf231d93db6f9ff672b9104622b'}
+  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:d3869fd48bd3a58eef9551b8137dd65f3354eba0c15de31b1d62b6182e3f359e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1190,4 +1190,7 @@ table_of_contents:
   label: 男女童勞
   type: section
   level: 2
-hash: sha256:0ae9c267626eb7cfaacc9357a27770d25645b54e618e0b1ca63cf217aa5c9d04
+hash: sha256:95bcdd19dbaa294553fd8235d11d6f6cc54faf8fdc7521676299d75098f2eada
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
