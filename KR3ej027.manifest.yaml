@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej027_000.yaml, hash: 'sha256:d6e33a700d417ea4a88373cd2ccec34b94fe4d89e679da45e9a7c11aae967ebd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:d3869fd48bd3a58eef9551b8137dd65f3354eba0c15de31b1d62b6182e3f359e'}
+  - {seq: 0, role: markers, filename: assets/KR3ej027_000.markers.yaml, hash: 'sha256:3e34c6b887d6baa00bc45439005e9b6034e15e1cac84b1a20b5b83badafc4b2b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1190,7 +1190,7 @@ table_of_contents:
   label: 男女童勞
   type: section
   level: 2
-hash: sha256:95bcdd19dbaa294553fd8235d11d6f6cc54faf8fdc7521676299d75098f2eada
+hash: sha256:7287086748ffd952139eb145fdf47da0ce1830b36fa474b41191abf8cf856441
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
